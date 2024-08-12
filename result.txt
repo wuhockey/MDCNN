@@ -1,0 +1,7800 @@
+best epoch : 0
+total_loss : 3.2632
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 3.1579
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 3.0712
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 2.9910
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 2.9162
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 5
+total_loss : 2.8450
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 6
+total_loss : 2.7778
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 7
+total_loss : 2.7145
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 8
+total_loss : 2.6548
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 9
+total_loss : 2.5987
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 10
+total_loss : 2.5457
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 11
+total_loss : 2.4963
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 12
+total_loss : 2.4500
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 13
+total_loss : 2.4065
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 14
+total_loss : 2.3665
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 15
+total_loss : 2.3290
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 16
+total_loss : 2.2942
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 17
+total_loss : 2.2622
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 18
+total_loss : 2.2323
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 19
+total_loss : 2.2050
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 0
+total_loss : 2.3509
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 2.2971
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 2.2618
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 2.2320
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 2.2052
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 5
+total_loss : 2.1808
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 6
+total_loss : 2.1585
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 7
+total_loss : 2.1382
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 8
+total_loss : 2.1193
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 9
+total_loss : 2.1022
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 10
+total_loss : 2.0863
+train_acc : 4.1667 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 2.0718
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 2.0583
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 2.0460
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 2.0345
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 2.0242
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 2.0149
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 2.0061
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 1.9981
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 1.9907
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.0921
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 2.0897
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 2.0884
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 2.0873
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 2.0862
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 5
+total_loss : 2.0852
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 6
+total_loss : 2.0841
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 7
+total_loss : 2.0832
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 8
+total_loss : 2.0821
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 9
+total_loss : 2.0811
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 10
+total_loss : 2.0801
+train_acc : 4.1667 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 2.0790
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 2.0780
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 2.0770
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 2.0760
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 2.0749
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 2.0738
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 2.0728
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 2.0717
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 2.0706
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.1031
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 2.1028
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 2.1026
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 2.1025
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 2.1023
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 5
+total_loss : 2.1022
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 6
+total_loss : 2.1021
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 7
+total_loss : 2.1019
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 8
+total_loss : 2.1018
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 9
+total_loss : 2.1017
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 10
+total_loss : 2.1016
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 11
+total_loss : 2.1014
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 12
+total_loss : 2.1013
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 13
+total_loss : 2.1012
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 14
+total_loss : 2.1011
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 15
+total_loss : 2.1009
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 16
+total_loss : 2.1008
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 17
+total_loss : 2.1007
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 18
+total_loss : 2.1006
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 19
+total_loss : 2.1004
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 0
+total_loss : 2.0463
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 2.0352
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 2.0299
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 2.0257
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 2.0219
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 2.0184
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 2.0151
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 2.0120
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 2.0089
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 2.0060
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 2.0031
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 2.0004
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 1.9977
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 1.9951
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 1.9925
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 1.9901
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 1.9876
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 1.9853
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 1.9830
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 1.9808
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.4904
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 2.4283
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 2.3848
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 2.3464
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 2.3116
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 5
+total_loss : 2.2799
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 6
+total_loss : 2.2504
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 7
+total_loss : 2.2231
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 8
+total_loss : 2.1979
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 9
+total_loss : 2.1748
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 10
+total_loss : 2.1534
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 11
+total_loss : 2.1335
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 12
+total_loss : 2.1149
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 13
+total_loss : 2.0981
+train_acc : 4.1667 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 2.0827
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 2.0683
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 2.0552
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 2.0431
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 2.0320
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 2.0218
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.0576
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 2.0517
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 2.0486
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 2.0462
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 2.0440
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 2.0418
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 2.0397
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 2.0378
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 2.0357
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 2.0339
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 2.0320
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 2.0303
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 2.0283
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 2.0265
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 2.0247
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 2.0229
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 2.0211
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 2.0194
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 2.0176
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 2.0160
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 1.9331
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 1.9218
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 1.9192
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 1.9184
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 1.9173
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 1.9168
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 1.9164
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 1.9163
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 1.9157
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 1.9154
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 1.9152
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 1.9149
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 1.9150
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 1.9145
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 1.9143
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 1.9142
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 1.9139
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 1.9139
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 1.9140
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 1.9137
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.4064
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 2.3398
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 2.2949
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 2.2568
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 2.2228
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 5
+total_loss : 2.1922
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 6
+total_loss : 2.1645
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 7
+total_loss : 2.1393
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 8
+total_loss : 2.1165
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 9
+total_loss : 2.0958
+train_acc : 0.0000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 2.0771
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 2.0601
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 2.0449
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 2.0311
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 2.0187
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 2.0076
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 1.9976
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 1.9887
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 1.9806
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 1.9735
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.3149
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 2.2427
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 2.1980
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 2.1617
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 2.1305
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 5
+total_loss : 2.1033
+train_acc : 0.0000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 2.0794
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 2.0583
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 2.0398
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 2.0235
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 2.0092
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 1.9967
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 1.9857
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 1.9762
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 1.9679
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 1.9606
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 1.9543
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 1.9488
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 1.9441
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 1.9399
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.0916
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 2.0853
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 2
+total_loss : 2.0819
+train_acc : 0.0000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 2.0790
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 2.0764
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 2.0738
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 2.0714
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 2.0690
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 2.0666
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 2.0643
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 2.0620
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 2.0598
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 2.0575
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 2.0553
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 2.0531
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 2.0510
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 2.0488
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 2.0467
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 2.0446
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 2.0425
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.0012
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 1.9924
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 1.9888
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 1.9861
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 1.9838
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 1.9817
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 1.9797
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 1.9778
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 1.9760
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 1.9743
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 1.9726
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 1.9710
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 1.9694
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 1.9678
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 1.9663
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 1.9648
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 1.9634
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 1.9620
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 1.9606
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 1.9593
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.2900
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 2.2513
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 2.2264
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 2.2050
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 2.1857
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 5
+total_loss : 2.1679
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 6
+total_loss : 2.1513
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 7
+total_loss : 2.1358
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 8
+total_loss : 2.1213
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 9
+total_loss : 2.1077
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 10
+total_loss : 2.0950
+train_acc : 4.1667 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 2.0830
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 2.0718
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 2.0613
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 2.0514
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 2.0422
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 2.0336
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 2.0255
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 2.0180
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 2.0109
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.0651
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 2.0618
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 2.0601
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 2.0587
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 2.0574
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 2.0562
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 2.0550
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 2.0538
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 2.0526
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 2.0514
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 2.0503
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 2.0491
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 2.0479
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 2.0468
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 2.0456
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 2.0444
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 2.0433
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 2.0421
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 2.0409
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 2.0397
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.0766
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 2.0755
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 2.0749
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 2.0744
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 2.0739
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 2.0735
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 2.0730
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 2.0726
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 2.0722
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 2.0718
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 2.0714
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 2.0709
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 2.0705
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 2.0701
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 2.0697
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 2.0693
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 2.0689
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 2.0685
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 2.0681
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 2.0677
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.3208
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 2.3017
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 2.2887
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 2.2772
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 2.2664
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 5
+total_loss : 2.2562
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 6
+total_loss : 2.2463
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 7
+total_loss : 2.2369
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 8
+total_loss : 2.2277
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 9
+total_loss : 2.2188
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 10
+total_loss : 2.2103
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 11
+total_loss : 2.2019
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 12
+total_loss : 2.1939
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 13
+total_loss : 2.1861
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 14
+total_loss : 2.1785
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 15
+total_loss : 2.1711
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 16
+total_loss : 2.1640
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 17
+total_loss : 2.1570
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 18
+total_loss : 2.1503
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 19
+total_loss : 2.1438
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 0
+total_loss : 18.0592
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 1
+total_loss : 18.0567
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 2
+total_loss : 18.0542
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 3
+total_loss : 18.0518
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 4
+total_loss : 18.0493
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 5
+total_loss : 18.0468
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 6
+total_loss : 18.0443
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 7
+total_loss : 18.0418
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 8
+total_loss : 18.0394
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 9
+total_loss : 18.0369
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 10
+total_loss : 18.0344
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 11
+total_loss : 18.0319
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 12
+total_loss : 18.0295
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 13
+total_loss : 18.0270
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 14
+total_loss : 18.0245
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 15
+total_loss : 18.0221
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 16
+total_loss : 18.0196
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 17
+total_loss : 18.0171
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 18
+total_loss : 18.0147
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 19
+total_loss : 18.0122
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 0
+total_loss : 172.1779
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 1
+total_loss : 170.1707
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 2
+total_loss : 168.1858
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 3
+total_loss : 166.1346
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 4
+total_loss : 164.0404
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 5
+total_loss : 161.9385
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 6
+total_loss : 159.8354
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 7
+total_loss : 157.7344
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 8
+total_loss : 155.6375
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 9
+total_loss : 153.5460
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 10
+total_loss : 151.4605
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 11
+total_loss : 149.3817
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 12
+total_loss : 147.3097
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 13
+total_loss : 145.2447
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 14
+total_loss : 143.1868
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 15
+total_loss : 141.1141
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 16
+total_loss : 138.8923
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 17
+total_loss : 136.6527
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 18
+total_loss : 134.4033
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 19
+total_loss : 132.1493
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 0
+total_loss : 18.6574
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 1
+total_loss : 18.6552
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 2
+total_loss : 18.6530
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 3
+total_loss : 18.6508
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 4
+total_loss : 18.6486
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 5
+total_loss : 18.6465
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 6
+total_loss : 18.6443
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 7
+total_loss : 18.6421
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 8
+total_loss : 18.6399
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 9
+total_loss : 18.6377
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 10
+total_loss : 18.6356
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 11
+total_loss : 18.6334
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 12
+total_loss : 18.6312
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 13
+total_loss : 18.6290
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 14
+total_loss : 18.6268
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 15
+total_loss : 18.6247
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 16
+total_loss : 18.6225
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 17
+total_loss : 18.6203
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 18
+total_loss : 18.6181
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+epoch : 19
+total_loss : 18.6160
+train_acc : 0.0000 %
+val_acc : 0.0000 %
+test_acc_FITB : 0.0000 %
+
+best epoch : 0
+total_loss : 2.2229
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 2.1753
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 2.1473
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 2.1244
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 2.1043
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 5
+total_loss : 2.0864
+train_acc : 4.1667 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 2.0703
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 2.0556
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 2.0423
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 2.0302
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 2.0191
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 2.0091
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 2.0000
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 1.9917
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 1.9842
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 1.9774
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 1.9712
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 1.9656
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 1.9606
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 1.9560
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 4.0767
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 3.8389
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 3.6364
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 3.4498
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 3.2763
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 5
+total_loss : 3.1155
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 6
+total_loss : 2.9673
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 7
+total_loss : 2.8316
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 8
+total_loss : 2.7084
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 9
+total_loss : 2.5975
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 10
+total_loss : 2.4986
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 11
+total_loss : 2.4111
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 12
+total_loss : 2.3345
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 13
+total_loss : 2.2678
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 14
+total_loss : 2.2104
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 15
+total_loss : 2.1612
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 16
+total_loss : 2.1194
+train_acc : 4.1667 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 2.0841
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 2.0544
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 2.0296
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 1.9389
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 1.9279
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 1.9254
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 1.9240
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 1.9230
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 1.9223
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 1.9216
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 1.9211
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 1.9206
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 1.9201
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 1.9197
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 1.9193
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 1.9190
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 1.9186
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 1.9183
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 1.9180
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 1.9176
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 1.9174
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 1.9171
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 1.9168
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.1125
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 2.1116
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 2.1111
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 2.1107
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 2.1103
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 5
+total_loss : 2.1099
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 6
+total_loss : 2.1095
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 7
+total_loss : 2.1092
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 8
+total_loss : 2.1088
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 9
+total_loss : 2.1084
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 10
+total_loss : 2.1081
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 11
+total_loss : 2.1077
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 12
+total_loss : 2.1074
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 13
+total_loss : 2.1070
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 14
+total_loss : 2.1066
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 15
+total_loss : 2.1063
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 16
+total_loss : 2.1059
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 17
+total_loss : 2.1056
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 18
+total_loss : 2.1052
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 19
+total_loss : 2.1049
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 0
+total_loss : 2.0792
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 2.0675
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 2.0614
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 2.0565
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 2.0521
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 2.0480
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 2.0441
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 2.0404
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 2.0368
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 2.0334
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 2.0300
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 2.0268
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 2.0236
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 2.0206
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 2.0176
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 2.0147
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 2.0119
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 2.0091
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 2.0064
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 2.0038
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.0477
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 2.0471
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 2.0468
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 2.0466
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 2.0464
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 2.0462
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 2.0460
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 2.0458
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 2.0456
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 2.0454
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 2.0452
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 2.0450
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 2.0448
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 2.0446
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 2.0445
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 2.0443
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 2.0441
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 2.0439
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 2.0437
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 2.0435
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.0504
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 2.0498
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 2.0495
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 2.0493
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 2.0491
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 2.0489
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 2.0487
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 2.0485
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 2.0483
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 2.0481
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 2.0479
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 2.0478
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 2.0476
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 2.0474
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 2.0472
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 2.0470
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 2.0468
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 2.0467
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 2.0465
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 2.0463
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.0043
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 1.9732
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 1.9627
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 1.9559
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 1.9506
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 1.9462
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 1.9425
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 1.9392
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 1.9364
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 1.9339
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 1.9316
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 1.9296
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 1.9278
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 1.9262
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 1.9248
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 1.9235
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 1.9223
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 1.9213
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 1.9204
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 1.9195
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.6514
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 2.5846
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 2.5345
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 2.4897
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 2.4486
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 5
+total_loss : 2.4103
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 6
+total_loss : 2.3746
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 7
+total_loss : 2.3413
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 8
+total_loss : 2.3102
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 9
+total_loss : 2.2811
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 10
+total_loss : 2.2540
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 11
+total_loss : 2.2288
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 12
+total_loss : 2.2053
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 13
+total_loss : 2.1834
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 14
+total_loss : 2.1631
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 15
+total_loss : 2.1443
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 16
+total_loss : 2.1268
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 17
+total_loss : 2.1106
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 18
+total_loss : 2.0955
+train_acc : 4.1667 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 2.0816
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.1312
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 2.1306
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 2.1302
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 2.1299
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 2.1296
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 5
+total_loss : 2.1293
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 6
+total_loss : 2.1290
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 7
+total_loss : 2.1287
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 8
+total_loss : 2.1285
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 9
+total_loss : 2.1282
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 10
+total_loss : 2.1279
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 11
+total_loss : 2.1276
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 12
+total_loss : 2.1274
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 13
+total_loss : 2.1271
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 14
+total_loss : 2.1268
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 15
+total_loss : 2.1266
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 16
+total_loss : 2.1263
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 17
+total_loss : 2.1260
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 18
+total_loss : 2.1257
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 19
+total_loss : 2.1255
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 0
+total_loss : 1.9418
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 1.9229
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 1.9192
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 1.9175
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 1.9164
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 1.9156
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 1.9151
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 1.9146
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 1.9143
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 1.9140
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 1.9137
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 1.9135
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 1.9133
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 1.9131
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 1.9129
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 1.9128
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 1.9127
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 1.9125
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 1.9124
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 1.9123
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 25.1511
+train_acc : 0.0000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 0.0061
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 2
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 3
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 4
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 5
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 6
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 7
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 8
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 9
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 10
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 11
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 12
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 13
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 14
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 15
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 16
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 17
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 18
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 19
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+best epoch : 0
+total_loss : 2.0642
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 2.0636
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 2.0632
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 2.0630
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 2.0627
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 2.0625
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 2.0623
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 2.0620
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 2.0618
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 2.0616
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 2.0614
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 2.0612
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 2.0610
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 2.0607
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 2.0605
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 2.0603
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 2.0601
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 2.0599
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 2.0597
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 2.0595
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.0091
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 2.0049
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 2.0030
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 2.0016
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 2.0003
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 1.9991
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 1.9980
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 1.9969
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 1.9958
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 1.9947
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 1.9937
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 1.9926
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 1.9916
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 1.9906
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 1.9896
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 1.9886
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 1.9876
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 1.9866
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 1.9857
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 1.9847
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.4158
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 2.3444
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 2.2966
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 2.2561
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 2.2204
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 5
+total_loss : 2.1883
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 6
+total_loss : 2.1595
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 7
+total_loss : 2.1336
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 8
+total_loss : 2.1102
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 9
+total_loss : 2.0891
+train_acc : 4.1667 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 2.0702
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 2.0532
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 2.0380
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 2.0244
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 2.0122
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 2.0013
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 1.9916
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 1.9829
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 1.9752
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 1.9683
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.0982
+train_acc : 4.1667 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 2.0825
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 2.0741
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 2.0673
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 2.0612
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 2.0555
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 2.0502
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 2.0451
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 2.0401
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 2.0354
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 2.0309
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 2.0265
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 2.0222
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 2.0181
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 2.0142
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 2.0103
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 2.0066
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 2.0030
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 1.9996
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 1.9962
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.0264
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 2.0172
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 2.0130
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 2.0098
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 2.0070
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 2.0043
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 2.0018
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 1.9995
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 1.9972
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 1.9950
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 1.9928
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 1.9907
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 1.9887
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 1.9867
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 1.9848
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 1.9829
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 1.9810
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 1.9792
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 1.9775
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 1.9758
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.0608
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 2.0602
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 2.0599
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 2.0596
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 2.0593
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 2.0591
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 2.0589
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 2.0586
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 2.0584
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 2.0582
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 2.0580
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 2.0577
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 2.0575
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 2.0573
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 2.0571
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 2.0569
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 2.0566
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 2.0564
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 2.0562
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 2.0560
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.0292
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 2.0284
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 2.0281
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 2.0278
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 2.0275
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 2.0273
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 2.0271
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 2.0268
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 2.0266
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 2.0264
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 2.0262
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 2.0260
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 2.0257
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 2.0255
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 2.0253
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 2.0251
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 2.0249
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 2.0247
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 2.0244
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 2.0242
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 1.9812
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 1.9703
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 1.9664
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 1.9636
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 1.9614
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 1.9594
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 1.9575
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 1.9558
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 1.9542
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 1.9527
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 1.9512
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 1.9498
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 1.9484
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 1.9471
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 1.9458
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 1.9446
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 1.9434
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 1.9423
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 1.9412
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 1.9402
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.1650
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 2.1569
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 2.1520
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 2.1478
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 2.1439
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 5
+total_loss : 2.1402
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 6
+total_loss : 2.1366
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 7
+total_loss : 2.1332
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 8
+total_loss : 2.1298
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 9
+total_loss : 2.1265
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 10
+total_loss : 2.1233
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 11
+total_loss : 2.1202
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 12
+total_loss : 2.1171
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 13
+total_loss : 2.1141
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 14
+total_loss : 2.1111
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 15
+total_loss : 2.1082
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 16
+total_loss : 2.1053
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 17
+total_loss : 2.1025
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 18
+total_loss : 2.0997
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 19
+total_loss : 2.0970
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 0
+total_loss : 3.1234
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 3.0054
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 2.9105
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 2.8243
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 2.7445
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 5
+total_loss : 2.6705
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 6
+total_loss : 2.6017
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 7
+total_loss : 2.5379
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 8
+total_loss : 2.4790
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 9
+total_loss : 2.4246
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 10
+total_loss : 2.3747
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 11
+total_loss : 2.3290
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 12
+total_loss : 2.2872
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 13
+total_loss : 2.2492
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 14
+total_loss : 2.2146
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 15
+total_loss : 2.1833
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 16
+total_loss : 2.1550
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 17
+total_loss : 2.1295
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 18
+total_loss : 2.1065
+train_acc : 4.1667 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 2.0858
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 1.9457
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 1.9347
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 1.9319
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 1.9302
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 1.9290
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 1.9280
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 1.9272
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 1.9264
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 1.9257
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 1.9250
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 1.9244
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 1.9239
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 1.9233
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 1.9228
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 1.9223
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 1.9219
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 1.9214
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 1.9210
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 1.9206
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 1.9202
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 68.9848
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 10.0705
+train_acc : 8.3333 %
+val_acc : 0.0000 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 0.0085
+train_acc : 12.5000 %
+val_acc : 0.0000 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 29.0672
+train_acc : 8.3333 %
+val_acc : 0.0000 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 15.2452
+train_acc : 8.3333 %
+val_acc : 0.0000 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 9
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 10
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 11
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 12
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 13
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 62.4580
+train_acc : 0.0000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 30.9634
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 0.0002
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 4.1667 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 4.1667 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 4.1667 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 4.1667 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 4.1667 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 4.1667 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 4.1667 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 4.1667 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 4.1667 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 4.1667 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 4.1667 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 4.1667 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 4.1667 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 4.1667 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 4.1667 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 4.1667 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.0633
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 2.0444
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 2.0353
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 2.0282
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 2.0220
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 2.0163
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 2.0110
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 2.0061
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 2.0014
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 1.9970
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 1.9929
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 1.9889
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 1.9851
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 1.9815
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 1.9781
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 1.9748
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 1.9717
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 1.9687
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 1.9659
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 1.9632
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.1050
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 1
+total_loss : 2.0860
+train_acc : 4.1667 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 2.0759
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 2.0677
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 2.0604
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 2.0536
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 2.0472
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 2.0412
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 2.0355
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 2.0301
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 2.0249
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 2.0199
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 2.0152
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 2.0106
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 2.0063
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 2.0021
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 1.9981
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 1.9943
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 1.9907
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 1.9872
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.0201
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 2.0106
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 2.0065
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 2.0033
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 2.0005
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 1.9979
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 1.9955
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 1.9932
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 1.9909
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 1.9888
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 1.9867
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 1.9846
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 1.9827
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 1.9807
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 1.9789
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 1.9770
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 1.9752
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 1.9735
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 1.9718
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 1.9701
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 106.0247
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 6.5144
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 52.2589
+train_acc : 8.3333 %
+val_acc : 4.1667 %
+test_acc_FITB : 0.0000 %
+
+epoch : 3
+total_loss : 22.7553
+train_acc : 8.3333 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 0.0000 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 2.6789
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 2.6272
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 2.5876
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 2.5516
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 2.5180
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 5
+total_loss : 2.4862
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 6
+total_loss : 2.4560
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 7
+total_loss : 2.4274
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 8
+total_loss : 2.4001
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 9
+total_loss : 2.3741
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 10
+total_loss : 2.3495
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 11
+total_loss : 2.3260
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 12
+total_loss : 2.3038
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 13
+total_loss : 2.2826
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 14
+total_loss : 2.2625
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 15
+total_loss : 2.2435
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 16
+total_loss : 2.2255
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 17
+total_loss : 2.2084
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 18
+total_loss : 2.1921
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 19
+total_loss : 2.1768
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 0
+total_loss : 2.6314
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 2.5809
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 2.5427
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 3
+total_loss : 2.5084
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 2.4764
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 5
+total_loss : 2.4463
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 6
+total_loss : 2.4178
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 7
+total_loss : 2.3909
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 8
+total_loss : 2.3653
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 9
+total_loss : 2.3410
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 10
+total_loss : 2.3179
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 11
+total_loss : 2.2961
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 12
+total_loss : 2.2753
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 13
+total_loss : 2.2556
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 14
+total_loss : 2.2369
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 15
+total_loss : 2.2192
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 16
+total_loss : 2.2024
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 17
+total_loss : 2.1864
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 18
+total_loss : 2.1713
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 19
+total_loss : 2.1570
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 0
+total_loss : 102.9619
+train_acc : 4.1667 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 72.2846
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 9.1831
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 22.4584
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 5
+total_loss : 0.0045
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 4.1224
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 4.0210
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 3.9827
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 3.9568
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 3.9368
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 3.9206
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 3.9071
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 3.8957
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 3.8861
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 3.8778
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 3.8708
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 3.8648
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 3.8596
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 3.8552
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 3.8513
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 3.8480
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 3.8452
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 3.8427
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 3.8405
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 3.8387
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 415.7032
+train_acc : 5.5556 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 1
+total_loss : 48.1862
+train_acc : 11.1111 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 2
+total_loss : 23.2466
+train_acc : 11.1111 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 3
+total_loss : 0.0050
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 4
+total_loss : 0.0614
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 5
+total_loss : 0.0192
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 6
+total_loss : 0.0052
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 7
+total_loss : 0.0026
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 8
+total_loss : 0.0017
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 9
+total_loss : 0.0013
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 10
+total_loss : 0.0011
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 11
+total_loss : 0.0010
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 12
+total_loss : 0.0009
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 13
+total_loss : 0.0008
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 14
+total_loss : 0.0007
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 15
+total_loss : 0.0007
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 16
+total_loss : 0.0006
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 17
+total_loss : 0.0006
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 18
+total_loss : 0.0005
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 19
+total_loss : 0.0005
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+best epoch : 0
+total_loss : 6.0296
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 1
+total_loss : 5.9364
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 2
+total_loss : 5.9069
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 3
+total_loss : 5.8872
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 4
+total_loss : 5.8715
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 5
+total_loss : 5.8579
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 6
+total_loss : 5.8460
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 7
+total_loss : 5.8354
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 8
+total_loss : 5.8259
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 9
+total_loss : 5.8173
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 10
+total_loss : 5.8096
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 11
+total_loss : 5.8026
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 12
+total_loss : 5.7964
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 13
+total_loss : 5.7908
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 14
+total_loss : 5.7857
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 15
+total_loss : 5.7811
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 16
+total_loss : 5.7770
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 17
+total_loss : 5.7733
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 18
+total_loss : 5.7700
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 19
+total_loss : 5.7670
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+best epoch : 0
+total_loss : 323.2720
+train_acc : 6.9444 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 31.0167
+train_acc : 9.7222 %
+val_acc : 4.1667 %
+test_acc_FITB : 12.5000 %
+
+best epoch : 2
+total_loss : 52.2651
+train_acc : 8.3333 %
+val_acc : 12.5000 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 58.3938
+train_acc : 9.7222 %
+val_acc : 8.3333 %
+test_acc_FITB : 4.1667 %
+
+epoch : 4
+total_loss : 3.3824
+train_acc : 11.1111 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 5
+total_loss : 1.7115
+train_acc : 11.1111 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 6
+total_loss : 0.0004
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 7
+total_loss : 0.0002
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 8
+total_loss : 0.0002
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 9
+total_loss : 0.0002
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 10
+total_loss : 0.0001
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 11
+total_loss : 0.0001
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 12
+total_loss : 0.0001
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 13
+total_loss : 0.0001
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 14
+total_loss : 0.0001
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 15
+total_loss : 0.0001
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 16
+total_loss : 0.0001
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 17
+total_loss : 0.0001
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 18
+total_loss : 0.0001
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 19
+total_loss : 0.0001
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+best epoch : 0
+total_loss : 6.2906
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+epoch : 1
+total_loss : 6.2821
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+epoch : 2
+total_loss : 6.2775
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+epoch : 3
+total_loss : 6.2736
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+epoch : 4
+total_loss : 6.2699
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+epoch : 5
+total_loss : 6.2663
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+epoch : 6
+total_loss : 6.2627
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+epoch : 7
+total_loss : 6.2592
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+epoch : 8
+total_loss : 6.2556
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+epoch : 9
+total_loss : 6.2521
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+epoch : 10
+total_loss : 6.2487
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+epoch : 11
+total_loss : 6.2452
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+best epoch : 12
+total_loss : 6.2418
+train_acc : 0.0000 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 13
+total_loss : 6.2383
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 14
+total_loss : 6.2349
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 15
+total_loss : 6.2316
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 16
+total_loss : 6.2282
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 17
+total_loss : 6.2249
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 18
+total_loss : 6.2216
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 19
+total_loss : 6.2183
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+best epoch : 0
+total_loss : 6.2975
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 1
+total_loss : 6.2587
+train_acc : 0.0000 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 6.2395
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 6.2238
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 6.2093
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 6.1953
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 6.1816
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 6.1679
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 6.1542
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 6.1404
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 6.1266
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 6.1129
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 6.0992
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 6.0856
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 6.0721
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 6.0588
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 6.0457
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 6.0328
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 6.0201
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 6.0078
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 410.8456
+train_acc : 6.9444 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 1
+total_loss : 154.3620
+train_acc : 6.9444 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+best epoch : 2
+total_loss : 41.7017
+train_acc : 8.3333 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 3
+total_loss : 1.7586
+train_acc : 11.1111 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 4
+total_loss : 6.8600
+train_acc : 11.1111 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 5
+total_loss : 0.0041
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 6
+total_loss : 16.0719
+train_acc : 11.1111 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 7
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 8
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 9
+total_loss : 0.0001
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 10
+total_loss : 0.0006
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 11
+total_loss : 0.0010
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 12
+total_loss : 0.0011
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 13
+total_loss : 0.0009
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 14
+total_loss : 0.0007
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 15
+total_loss : 0.0006
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 16
+total_loss : 0.0005
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 17
+total_loss : 0.0004
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 18
+total_loss : 0.0004
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 19
+total_loss : 0.0003
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+best epoch : 0
+total_loss : 8.7218
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+epoch : 1
+total_loss : 8.1189
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+epoch : 2
+total_loss : 7.6935
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+epoch : 3
+total_loss : 7.3439
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+epoch : 4
+total_loss : 7.0530
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+epoch : 5
+total_loss : 6.8117
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+epoch : 6
+total_loss : 6.6130
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+epoch : 7
+total_loss : 6.4501
+train_acc : 3.3333 %
+val_acc : 3.3333 %
+test_acc_FITB : 3.3333 %
+
+best epoch : 8
+total_loss : 6.3173
+train_acc : 2.2222 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 9
+total_loss : 6.2093
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 10
+total_loss : 6.1218
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 11
+total_loss : 6.0510
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 12
+total_loss : 5.9937
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 13
+total_loss : 5.9475
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 14
+total_loss : 5.9101
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 15
+total_loss : 5.8800
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 16
+total_loss : 5.8556
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 17
+total_loss : 5.8359
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 18
+total_loss : 5.8199
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 19
+total_loss : 5.8070
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+best epoch : 0
+total_loss : 6.2381
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 6.2344
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 6.2325
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 6.2308
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 6.2293
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 6.2277
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 6.2262
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 6.2247
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 6.2232
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 6.2216
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 6.2201
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 6.2186
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 6.2171
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 6.2155
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 6.2140
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 6.2125
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 6.2109
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 6.2094
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 6.2078
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 6.2063
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 375.1565
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 12.0316
+train_acc : 9.7222 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 2
+total_loss : 64.0061
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 3
+total_loss : 11.4938
+train_acc : 9.7222 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 4
+total_loss : 17.1985
+train_acc : 9.7222 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 5
+total_loss : 6.2067
+train_acc : 11.1111 %
+val_acc : 12.5000 %
+test_acc_FITB : 4.1667 %
+
+epoch : 6
+total_loss : 11.3258
+train_acc : 9.7222 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 7
+total_loss : 32.1671
+train_acc : 11.1111 %
+val_acc : 8.3333 %
+test_acc_FITB : 12.5000 %
+
+epoch : 8
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 9
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 10
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 11
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 12
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 13
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 14
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 15
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 16
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 17
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 18
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+epoch : 19
+total_loss : 0.0000
+train_acc : 12.5000 %
+val_acc : 12.5000 %
+test_acc_FITB : 12.5000 %
+
+best epoch : 0
+total_loss : 6.0409
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 1
+total_loss : 5.9582
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 2
+total_loss : 5.9303
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 3
+total_loss : 5.9107
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 4
+total_loss : 5.8945
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 5
+total_loss : 5.8802
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 6
+total_loss : 5.8673
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 7
+total_loss : 5.8556
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 8
+total_loss : 5.8449
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 9
+total_loss : 5.8351
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 10
+total_loss : 5.8262
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 11
+total_loss : 5.8181
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 12
+total_loss : 5.8107
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 13
+total_loss : 5.8040
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 14
+total_loss : 5.7978
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 15
+total_loss : 5.7923
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 16
+total_loss : 5.7873
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 17
+total_loss : 5.7827
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 18
+total_loss : 5.7785
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 19
+total_loss : 5.7748
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+best epoch : 0
+total_loss : 7.1373
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 1
+total_loss : 6.7018
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+epoch : 2
+total_loss : 6.4687
+train_acc : 4.1667 %
+val_acc : 4.1667 %
+test_acc_FITB : 4.1667 %
+
+best epoch : 3
+total_loss : 6.3012
+train_acc : 5.5556 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 6.1750
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 6.0788
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 6.0050
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 5.9484
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 5.9048
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 5.8712
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 5.8453
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 5.8252
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 5.8097
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 5.7976
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 5.7882
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 5.7808
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 5.7749
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 5.7703
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 5.7666
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 5.7637
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 6.0974
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 1
+total_loss : 5.9298
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 2
+total_loss : 5.8823
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 3
+total_loss : 5.8542
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 4
+total_loss : 5.8342
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 5
+total_loss : 5.8187
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 6
+total_loss : 5.8064
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 7
+total_loss : 5.7964
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 8
+total_loss : 5.7881
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 9
+total_loss : 5.7813
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 10
+total_loss : 5.7757
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 11
+total_loss : 5.7710
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 12
+total_loss : 5.7671
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 13
+total_loss : 5.7638
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 14
+total_loss : 5.7610
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 15
+total_loss : 5.7587
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 16
+total_loss : 5.7567
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 17
+total_loss : 5.7551
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 18
+total_loss : 5.7537
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+epoch : 19
+total_loss : 5.7524
+train_acc : 8.3333 %
+val_acc : 8.3333 %
+test_acc_FITB : 8.3333 %
+
+best epoch : 0
+total_loss : 6.2195
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 1
+total_loss : 6.1922
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 2
+total_loss : 6.1784
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 3
+total_loss : 6.1666
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 4
+total_loss : 6.1553
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 5
+total_loss : 6.1442
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 6
+total_loss : 6.1331
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 7
+total_loss : 6.1220
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 8
+total_loss : 6.1109
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 9
+total_loss : 6.0999
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 10
+total_loss : 6.0889
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 11
+total_loss : 6.0779
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 12
+total_loss : 6.0670
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 13
+total_loss : 6.0562
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 14
+total_loss : 6.0455
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 15
+total_loss : 6.0349
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 16
+total_loss : 6.0245
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 17
+total_loss : 6.0142
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 18
+total_loss : 6.0040
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
+epoch : 19
+total_loss : 5.9940
+train_acc : 6.6667 %
+val_acc : 6.6667 %
+test_acc_FITB : 6.6667 %
+
